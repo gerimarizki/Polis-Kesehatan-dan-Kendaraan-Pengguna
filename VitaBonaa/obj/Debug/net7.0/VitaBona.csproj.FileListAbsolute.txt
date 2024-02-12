@@ -1,0 +1,15 @@
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\bin\Debug\net7.0\VitaBona.exe
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\bin\Debug\net7.0\VitaBona.deps.json
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\bin\Debug\net7.0\VitaBona.runtimeconfig.json
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\bin\Debug\net7.0\VitaBona.dll
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\bin\Debug\net7.0\VitaBona.pdb
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.csproj.AssemblyReference.cache
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.AssemblyInfoInputs.cache
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.AssemblyInfo.cs
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.csproj.CoreCompileInputs.cache
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.dll
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\refint\VitaBona.dll
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.pdb
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\VitaBona.genruntimeconfig.cache
+C:\Users\1731\Documents\Geri_Marizki_Final_Exam_BC35\VitaBona\VitaBonaa\obj\Debug\net7.0\ref\VitaBona.dll
